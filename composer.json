@@ -1,0 +1,16 @@
+{
+    "name": "liwanyi/date",
+    "description": "日期",
+    "autoload": {
+        "psr-4": {
+            "Liwanyi\\Date\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "18662766737",
+            "email": "3357702725@qq.com"
+        }
+    ],
+    "require": {}
+}
