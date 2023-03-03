@@ -1,5 +1,5 @@
 {
-    "name": "liwanyi/date",
+    "name": "liwanyi/dateliwanyi",
     "description": "日期",
     "autoload": {
         "psr-4": {
